@@ -1,0 +1,11 @@
+jenkins:
+  agentProtocols:
+  - "Diagnostic-Ping"
+  - "JNLP4-connect"
+  - "OperationsCenter2"
+  - "Ping"
+unclassified:
+  mailer:
+    charset: "UTF-8"
+    smtpHost: "smpt.gmail.com"
+    useSsl: true
