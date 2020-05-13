@@ -7,5 +7,5 @@ jenkins:
 unclassified:
   mailer:
     charset: "UTF-8"
-    smtpHost: "smpt.gmail.com"
+    smtpHost: "smtp.gmail.com"
     useSsl: true
